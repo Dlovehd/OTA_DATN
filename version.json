@@ -1,5 +1,6 @@
 {
   "ota": false,
-  "version": "1.0.1",
-  "url": "http://192.168.1.8:8000/firmware_v2.bin"
+  "version": "1.1.0",
+  "url": "http://192.168.1.8:8000/firmwarev1.bin",
+  "note":""
 }
